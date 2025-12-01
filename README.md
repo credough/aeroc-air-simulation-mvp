@@ -5,7 +5,7 @@ AeroC is a web-based platform developed during the **AWS Solar Power Hackathon 2
 
 ---
 
-##Problem Statement
+## Problem Statement
 
 Air pollution poses a severe threat to global health and ecosystems. Harmful particles and gases—whether natural or man-made—pollute the air we breathe. According to the State of Global Air 2024 Report, air pollution is one of the leading environmental threats to human well-being, contributing to **8.1 million deaths globally** each year.
 
@@ -13,7 +13,7 @@ Communities need an accessible, real-time tool that helps them become aware of r
 
 ---
 
-##Our Solution: AeroC
+## Our Solution: AeroC
 
 **AeroC** is a **web-based air quality monitoring platform** that allows users to visualize, track, and understand harmful particles in their surroundings. It helps users make informed decisions by providing:
 
@@ -27,14 +27,14 @@ Communities need an accessible, real-time tool that helps them become aware of r
 
 ---
 
-##AWS Integration & Architecture
+## AWS Integration & Architecture
 
 AeroC is optimized using AWS serverless and cloud technologies.
 
-###Amazon S3  
+### Amazon S3  
 Used for reliable and scalable storage of datasets and resources used in air quality tracking.
 
-###Amazon EC2  
+### Amazon EC2  
 Served as the virtual server used to host and run the web application, offering flexible scaling and stable performance.
 
 ### AWS Architecture Overview  
@@ -42,7 +42,7 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 
 ---
 
-##Features
+## Features
 
 - ✔️ Air quality tracking and pollutant monitoring  
 - ✔️ Real-time visual simulation  
@@ -52,7 +52,7 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 ### **Frontend**
 - HTML  
@@ -84,7 +84,7 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 (*Note: This instance was from the hackathon and may no longer be active.*)
 
 ---
-###Screenshots
+### Screenshots
 
 > Replace the image URLs with actual file paths once uploaded to your repo.
 
