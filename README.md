@@ -86,22 +86,24 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 ---
 ### Screenshots
 
-> Replace the image URLs with actual file paths once uploaded to your repo.
-
 #### Landing Page
-![Landing Page](./assets/screenshots/landing-page.png)
+![Landing Page](.screenshots_demo/hp.png)
 
-#### Air Quality Map
-![Air Quality Map](./assets/screenshots/map-view.png)
+![Landing Page](.screenshots_demo/hp2.png)
 
 #### Simulation View
-![Simulation](./assets/screenshots/simulation-view.gif)
+![Simulation](.screenshots_demo/hp3.png)
+
+#### Data Visualization
+![Bar Graph](.screenshots_demo/hp4.png)
+![Line Graph](.screenshots_demo/hp5.png)
+
+#### Air Quality Map
+![Map](.screenshots_demo/hp6.png)
 
 ---
 
 ### Demo
-
-> Add a short screen recording of how AeroC works.
 
 ![Demo GIF](./assets/demo/demo.gif)
 
