@@ -87,12 +87,12 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 ### Screenshots
 
 #### Landing Page
-![Landing Page](.screenshots_demo/hp.png)
+![Landing Page](.screenshots_gif/hp.png)
 
-![Landing Page](.screenshots_demo/hp2.png)
+![Landing Page](.screenshots_gif/hp2.png)
 
 #### Simulation View
-![Simulation](.screenshots_demo/hp3.png)
+![Simulation](.screenshots_gif/hp3.png)
 
 #### Data Visualization
 ![Bar Graph](.screenshots_demo/hp4.png)
