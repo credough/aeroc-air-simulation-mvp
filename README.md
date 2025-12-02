@@ -87,16 +87,16 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 ### Screenshots
 
 #### Landing Page
-![Landing Page](./aeroc-air-simulation-mvp/screenshots_gif/hp.png)
+![Landing Page](./screenshots_gif/hp.png)
 
-![Landing Page](./aeroc-air-simulation-mvp/screenshots_gif/hp2.png)
+![Landing Page](./screenshots_gif/hp2.png)
 
 #### Simulation View
-![Simulation](./aeroc-air-simulation-mvp/screenshots_gif/hp3.png)
+![Simulation](./screenshots_gif/hp3.png)
 
 #### Data Visualization
-![Bar Graph](./aeroc-air-simulation-mvp/screenshots_gif/hp4.png)
-![Line Graph](./aeroc-air-simulation-mvp/screenshots_gif/hp5.png)
+![Bar Graph](./screenshots_gif/hp4.png)
+![Line Graph](./screenshots_gif/hp5.png)
 
 #### Air Quality Map
 ![Map](./aeroc-air-simulation-mvp/screenshots_demo/hp6.png)
