@@ -116,12 +116,12 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 
 ## 👥 Team AeroC
 
-| Name     | Role                |
-|----------|----------------------|
-| Aaron    | Frontend Developer   |
-| Kurt     | Backend Developer    |
-| Ronald   | Cloud Architect      |
-| Cedric   | Quality Assurance    |
+| Name                 | Role                |
+|----------------------|----------------------|
+| Aaron Creed Celindro | Frontend Developer   |
+| Kurt Gemoya          | Backend Developer    |
+| Ronald Novela        | Cloud Architect      |
+| Cedric Navarrosa     | Quality Assurance    |
 
 ---
 
