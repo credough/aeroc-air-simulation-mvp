@@ -103,7 +103,11 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 ![Line Graph](./screenshots_gif/hp5.png)
 
 #### Air Quality Map
+<<<<<<< HEAD
 ![Map](./screenshots_gif/hp6.png)
+=======
+![Map](./screenshots_demo/hp6.png)
+>>>>>>> 276420d11c689ae00489341c032784575c46cc83
 
 ---
 
