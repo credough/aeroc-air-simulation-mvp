@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./design elements/LOGO.png" alt="AeroC Logo" width="150"/>
+  <img src="./frontend files/design elements/LOGO.png" alt="AeroC Logo" width="150"/>
 </p>
 
 ### See the Air, Breathe Aware
