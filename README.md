@@ -5,7 +5,7 @@
 ### See the Air, Breathe Aware
 Track, simulate, and protect yourself from harmful particles in the air you breathe.
 
-AeroC is a web-based platform developed during the **AWS Solar Power Hackathon 2025**, held at **Arthaland Century Pacific Tower** on August 18, 2025. The project empowers individuals and communities by providing real-time tracking and visualization of air pollution levels using cloud-powered infrastructure.
+AeroC is a web-based platform developed during the **AWS Solar Power Hackathon 2025**, held at **Arthaland Century Pacific Tower BGC, Taguig** on August 18, 2025. The project empowers individuals and communities by providing real-time tracking and visualization of air pollution levels using cloud-powered infrastructure.
 
 ---
 
