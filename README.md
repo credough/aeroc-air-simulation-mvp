@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./design elements/LOGO.png" alt="AeroC Logo" width="150"/>
+</p>
+
 # AeroC — See the Air, Breathe Aware
 Track, simulate, and protect yourself from harmful particles in the air you breathe.
 
@@ -87,19 +91,19 @@ The system includes S3 for data storage, EC2 for hosting, and additional serverl
 ### Screenshots
 
 #### Landing Page
-![Landing Page](.screenshots_gif/hp.png)
+![Landing Page](./screenshots_gif/hp.png)
 
-![Landing Page](.screenshots_gif/hp2.png)
+![Landing Page](./screenshots_gif/hp2.png)
 
 #### Simulation View
-![Simulation](.screenshots_gif/hp3.png)
+![Simulation](./screenshots_gif/hp3.png)
 
 #### Data Visualization
-![Bar Graph](.screenshots_demo/hp4.png)
-![Line Graph](.screenshots_demo/hp5.png)
+![Bar Graph](./screenshots_gif/hp4.png)
+![Line Graph](./screenshots_gif/hp5.png)
 
 #### Air Quality Map
-![Map](.screenshots_demo/hp6.png)
+![Map](./screenshots_gif/hp6.png)
 
 ---
 
