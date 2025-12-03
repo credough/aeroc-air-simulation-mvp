@@ -136,13 +136,6 @@ AeroC promotes awareness and environmental consciousness by helping users:
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and enhance the platform for educational and research purposes.
-
----
-
 ## Acknowledgment
 
 Special thanks to **AWS**, the organizers of the **AWS Solar Power Hackathon 2025**, and all mentors who supported the development of AeroC. Being able to participate—and win—during our first hackathon was an experience that truly motivated us to keep building.
